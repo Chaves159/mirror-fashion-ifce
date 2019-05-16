@@ -1,0 +1,14 @@
+.img1{
+	float: left;
+}
+.img2{
+	float: right;
+}
+.pag1{
+	text-align: right;
+}
+body{
+	background-color: rgb(255,99,71);
+	text-align: justify;
+	font-family: monospace;
+}
