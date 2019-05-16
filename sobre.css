@@ -1,17 +1,18 @@
 body{
+	text-align:center;
 	color: blue;
 	font-family: arial;
 }
 title{
 	background-image: url(download.png);
 	border-style: dotted;
-	border-width: 3px;
+	border-width: 1px;
 }
 p{
 	color: black;
 	font-family: times;
 }
-img{
+figure{
 	background-color: #F2EDED;
 	border: 10px dotted #ccc;
 	text-align: justify;
