@@ -3,12 +3,23 @@
 }
 .img2{
 	float: right;
+	position: top;
 }
 .pag1{
 	text-align: right;
 }
 body{
-	background-color: rgb(255,99,71);
+	
 	text-align: justify;
 	font-family: monospace;
+}
+ul li{
+	display: inline;
+	padding: 5px;
+	margin: 5px;
+}
+.container {
+	position: relative;
+	margin: 0 auto;
+	width: 1040px;
 }
